@@ -1,5 +1,5 @@
 module.exports = {
-  "token": "OTcwMDM2NTgyMTA1MTA4NjIw.Ym2G9w.d2zxzf6E7OIx2aTT_7qHubC67cQ",
+  "token": "Anlattığımız şekilde aldığınız Discord Token'i buraya girin.",
   "geliştiriciler": ["Sizin Discord ID'niz.", "Diğer geliştiricinin Discord ID'si."], 
-  "prefix": "+"
+  "prefix": "Botunuzun hangi ön-ek ile çalıştıralacağını belirleyin.(Ayarladıktan sonra şu şekilde çalışacaktır: ön-ekkomutismi)"
 };
